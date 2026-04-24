@@ -25,7 +25,7 @@ I'm Bryan — I got into tech because of AI and want to build a career at the in
 
 | Date | Title | Topics |
 |---|---|---|
-| 2026-04-24 | [Securing a Fresh AWS Account: Lessons from an MFA Lockout Recovery](writeups/2026-04-24-securing-aws-account.md) | IAM, MFA, account recovery, least privilege, billing |
+| 2026-04-24 | [Securing a Fresh AWS Account: Lessons from an MFA Lockout Recovery](writeups/2026-04-24-securing-fresh-aws-account.md) | IAM, MFA, account recovery, least privilege, billing |
 
 *More writeups coming as I work through EC2 fundamentals, VPC networking, and a multi-tier home lab project.*
 
