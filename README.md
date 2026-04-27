@@ -26,8 +26,9 @@ I'm Bryan — I got into tech because of AI and want to build a career at the in
 | Date | Title | Topics |
 |---|---|---|
 | 2026-04-24 | [Securing a Fresh AWS Account: Lessons from an MFA Lockout Recovery](writeups/2026-04-24-securing-fresh-aws-account.md) | IAM, MFA, account recovery, least privilege, billing |
+| 2026-04-25 | [Building a Mini Segmented Network in AWS: VPC, Subnets, and Routing from Scratch](writeups/2026-04-25-mini-segmented-network.md) | VPC, subnets, IGW, route tables, network segmentation |
 
-*More writeups coming as I work through EC2 fundamentals, VPC networking, and a multi-tier home lab project.*
+*More writeups coming as I work through EC2 fundamentals, security groups, and a multi-tier home lab project.*
 
 ## Contact
 
