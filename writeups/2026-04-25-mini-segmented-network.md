@@ -103,7 +103,7 @@ For a learning lab, simplicity wins. For a real workload, availability would.
 An Internet Gateway (IGW) is a virtual router that connects a VPC to the public internet.
 Without it, no instance in the VPC — public or private — can reach anything outside.
 
-![Internet Gateway bryan-lab-igw attached to Bryan-lab-vpc](Screenshots/03-internet-gateway-attached.png)
+![Internet Gateway bryan-lab-igw attached to Bryan-lab-vpc](./Screenshots/03-internet%20gateway%20attached.png)
 
 **Network+ angle:** The IGW is functionally similar to the WAN port on a home router.
 It's the boundary between an internal network and the wider internet.
@@ -143,7 +143,7 @@ This is identical to how routing works on physical routers.
 The route table now has the right routes, but no subnet is using it yet.
 The final step is the **subnet association** — explicitly opting `bryan-lab-public-subnet` in.
 
-![Public subnet associated with bryan-lab-public-rt](./Screenshots/06-subnet-association.png)
+![Public subnet associated with bryan-lab-public-rt](./Screenshots/06-subnet-associations.png)
 
 **Sec+ angle:** Notice that we explicitly opt the public subnet *in*.
 We don't grant internet access by default.
