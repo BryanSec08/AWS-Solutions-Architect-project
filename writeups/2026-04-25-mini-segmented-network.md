@@ -170,7 +170,7 @@ That's the next writeup.
 - **Explicit-opt-in beats default-allow.** The public route table only applies to subnets that are explicitly associated with it. Defense in depth shows up everywhere in good cloud design — from IAM permissions to network access to billing visibility.
 - **Production trade-offs are visible even in a lab.** Single-AZ for simplicity vs. multi-AZ for high availability. AdministratorAccess for personal accounts vs. scoped permissions in production. Documenting these trade-offs is just as important as the implementation itself.
 
-[ YOUR VOICE: Add one or two final personal takeaways. What surprised you? What clicked that hadn't before? Did anything make you go "oh, THAT'S what my Network+ book was talking about"? Real reactions land better than polished ones. ]
+Although in my mind I understood how things were supposed to work, it felt great to actually create the internet gateway and attach it to the public subnet.  Nothing like seeing it live!
 
 ## What's next
 
