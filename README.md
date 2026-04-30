@@ -28,8 +28,9 @@ I'm Bryan — I got into tech because of AI and want to build a career at the in
 | 2026-04-24 | [Securing a Fresh AWS Account: Lessons from an MFA Lockout Recovery](writeups/2026-04-24-securing-fresh-aws-account.md) | IAM, MFA, account recovery, least privilege, billing |
 | 2026-04-25 | [Building a Mini Segmented Network in AWS: VPC, Subnets, and Routing from Scratch](writeups/2026-04-25-mini-segmented-network.md) | VPC, subnets, IGW, route tables, network segmentation |
 | 2026-04-28 | [Building a Bastion Host in AWS: SSH, Defense in Depth, and the Jump Box Pattern](writeups/2026-04-28-ec2-bastion-host.md) | EC2, bastion host, SSH, security groups, defense in depth, least privilege |
+| 2026-04-29 | [Adding Outbound-Only Internet to a Private Subnet: NAT Gateways and the Asymmetric Connectivity Pattern](writeups/2026-04-29-nat-gateway.md) | NAT Gateway, NAT/PAT, route tables, asymmetric connectivity, attack surface reduction |
 
-*More writeups coming as I work through NAT Gateways, multi-tier architectures, and a full home lab project.*
+*More writeups coming as I work through multi-tier architectures, AWS-managed databases, and a full home lab project.*
 
 ## Contact
 
