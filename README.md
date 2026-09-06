@@ -7,11 +7,12 @@ Welcome! This repository documents my hands-on learning and practice as I build 
 
 ## About Me
 
-I'm Bryan — I got into tech because of AI and want to build a career at the intersection of **cybersecurity and cloud computing**. Certifications prove you can pass a test; this repo is my attempt to prove I can actually do the work.
+I'm Bao — I got into tech because of AI and want to build a career at the intersection of **cybersecurity and cloud computing**. Certifications prove you can pass a test; this repo is my attempt to prove I can actually do the work.
 
 ## Certifications
 
 - ✅ **AWS Certified Solutions Architect – Associate**
+- ✅ **AWS Certified Cloud Practitioner**
 - ✅ **CompTIA Security+**
 - 🛠️ **CompTIA Network+** *(currently studying)*
 
@@ -38,5 +39,5 @@ I'm Bryan — I got into tech because of AI and want to build a career at the in
 
 ## Contact
 
-- GitHub: [@BryanSec08](https://github.com/BryanSec08)
+- GitHub   https://github.com/baole-cloudsecurity
 - Open to connecting with fellow learners and hiring managers — feel free to reach out.
